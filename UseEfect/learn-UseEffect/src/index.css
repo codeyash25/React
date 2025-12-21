@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Asimovian&family=Asset&family=Atomic+Age&family=Audiowide&family=BBH+Bartle&family=Bitcount+Grid+Double:wght@100..900&family=Bitcount+Prop+Single:wght@100..900&family=Black+Ops+One&family=Boldonse&family=Borel&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Bungee&family=Bungee+Hairline&family=Codystar:wght@300;400&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Eagle+Lake&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Epunda+Sans:ital,wght@0,300..900;1,300..900&family=Ewert&family=Fira+Code:wght@300..700&family=Foldit:wght@100..900&family=Fredoka:wght@300..700&family=Genos:ital,wght@0,100..900;1,100..900&family=Geostar+Fill&family=Germania+One&family=Goldman:wght@400;700&family=Hepta+Slab:wght@1..900&family=Homemade+Apple&family=Inconsolata:wght@200..900&family=Island+Moments&family=Jaini+Purva&family=Jersey+10&family=Jomolhari&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=MedievalSharp&family=Michroma&family=New+Amsterdam&family=Nova+Slim&family=Nova+Square&family=Plaster&family=Playwrite+AU+NSW:wght@100..400&family=Playwrite+DE+Grund:wght@100..400&family=Playwrite+MX+Guides&family=Port+Lligat+Sans&family=Press+Start+2P&family=Racing+Sans+One&family=Redacted+Script:wght@300;400;700&family=Revalia&family=Rozha+One&family=Rubik+Mono+One&family=Sancreek&family=Sekuya&family=Shadows+Into+Light+Two&family=Silkscreen:wght@400;700&family=Splash&family=Stack+Sans+Notch:wght@200..700&family=Stalinist+One&family=Stint+Ultra+Expanded&family=Story+Script&family=Syncopate:wght@400;700&family=Tektur:wght@400..900&family=Tiny5&family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Trochut:ital,wght@0,400;0,700;1,400&family=Unbounded:wght@200..900&family=Uncial+Antiqua&family=Unna:ital,wght@0,400;0,700;1,400;1,700&family=Wallpoet&family=Workbench&family=Zen+Dots&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #111;
+  color: white;
+
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: "Rozha One", serif;
+  color: orange;
+}
+h1{
+  font-size: 4rem;
+  font-family: "Asset", serif;
+  color: rgb(237, 245, 195);
+  margin: 1rem 5rem;
+  text-align: center;
+  border-bottom: 3px dashed white;
+}
