@@ -6,8 +6,8 @@ import FocusInput from './Components/Focus_Input'
 const App = () => {
   return (
     <div>
-      {/* <Previous /> */}
-      <Timer />
+      <Previous />
+      {/* <Timer /> */}
       {/* <FocusInput /> */}
     </div>
   )

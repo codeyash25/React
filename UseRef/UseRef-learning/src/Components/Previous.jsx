@@ -4,9 +4,8 @@ const Previous = () => {
   const [value , setvalue] = useState(0);
   const valref = useRef();
   useEffect(()=>{
-    // console.log(value);
     valref.current = value;
-    console.log(valref.current)
+    console.log(valref);
   },[value])
   const increment = ()=>{
     setvalue(prev => prev + 1);
